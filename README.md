@@ -62,11 +62,11 @@ me.say_hi()
 
 </div>
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hmonster013&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=hmonster013&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF)
 
 </div>
 
