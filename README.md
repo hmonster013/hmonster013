@@ -136,7 +136,7 @@ me.say_hi()
 
 ### 🎉 Thanks for visiting my profile!
 
-![Visitor Count](https://profile-counter.glitch.me/hmonster013/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=hmonster013&color=00D9FF&style=flat-square&label=Profile+Views)
 
 **⭐ Star my repositories if you find them interesting!**
 
